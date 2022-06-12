@@ -3,4 +3,4 @@
 	url = https://github.com/parthvsharma1/Test-Classes.git
 [submodule "ExecCode"]
 	path = ExecCode
-	url = ./ExecCode
+	url = https://github.com/parthvsharma1/Execution-Code.git
