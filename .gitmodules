@@ -1,0 +1,6 @@
+[submodule "LibFiles"]
+	path = LibFiles
+	url = ./LibFiles
+[submodule "ExecCode"]
+	path = ExecCode
+	url = ./ExecCode
