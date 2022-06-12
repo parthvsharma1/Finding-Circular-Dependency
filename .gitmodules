@@ -1,6 +1,6 @@
 [submodule "LibFiles"]
 	path = LibFiles
-	url = ./LibFiles
+	url = https://github.com/parthvsharma1/Test-Classes.git
 [submodule "ExecCode"]
 	path = ExecCode
 	url = ./ExecCode
